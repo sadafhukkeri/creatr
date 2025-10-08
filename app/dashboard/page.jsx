@@ -280,7 +280,6 @@ export default function DashboardPage() {
             </CardContent>
           </Card>
 
-          {/* Analytics Chart */}
           <Card className="card-glass">
             <CardHeader>
               <CardTitle className="text-white flex items-center">

@@ -355,6 +355,7 @@ const Home = () => {
           <p className="text-xl text-gray-400 mb-8 sm:mb-12 max-w-2xl mx-auto">
             Join thousands of creators who are already building their audience
             and growing their business with our AI-powered platform.
+            
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center">

@@ -155,7 +155,7 @@ export default function DashboardLayout({ children }) {
 
       {/* Main Content */}
       <div className="ml-0 lg:ml-64">
-        {/* Top Header */}
+        {/* Header */}
         <header
           className="fixed w-full top-0 right-0 z-30 bg-slate-800/80 backdrop-blur-md border-b border-slate-700"
           // style={{ left: "auto", width: "calc(100% - 16rem)" }}
