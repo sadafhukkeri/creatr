@@ -383,13 +383,13 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="relative z-10 border-t py-8 px-4 sm:px-6">
-        <div className="max-w-7xl mx-auto text-center">
-          <p className="text-muted-foreground">
-            Made with ❤️ by{" "}
-            <span className="text-foreground font-semibold">RoadsideCoder</span>
-          </p>
-        </div>
-      </footer>
+  <div className="max-w-7xl mx-auto text-center">
+    <p className="text-muted-foreground">
+      © {new Date().getFullYear()} AI Creator Platform — Built by <span className="text-foreground font-semibold">Sadaf Hukkeri</span>.
+    </p>
+  </div>
+</footer>
+
     </div>
   );
 };
